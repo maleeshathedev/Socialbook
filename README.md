@@ -12,7 +12,7 @@ Social Book is a project where a simplified Facebook clone is crafted using only
 ![Screenshot 2024-02-28 155845](https://github.com/maleeshathedev/Socialbook/assets/156166921/8a2cd5fd-a156-442b-ba4e-3042dc41a44f)
 
 
-Check out the live [demo](https://socialbooksos.netlify.app/)
+Check out the live [demo](https://socialbookos.netlify.app/)
 
 ### Usage
 Feel free to use this project as a starting point to enhance your front-end development skills. Experiment with the code, make improvements, and customize it according to your preferences.
